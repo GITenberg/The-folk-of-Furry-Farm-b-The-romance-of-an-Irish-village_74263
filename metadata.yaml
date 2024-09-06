@@ -1,0 +1,48 @@
+_repo: The-folk-of-Furry-Farm-b-The-romance-of-an-Irish-village_74263
+_version: 0.0.1
+contributor:
+  author_of_introduction:
+    agent_name: Birmingham, George A.
+    aliases:
+    - Hannay, James Owen
+    - Birmingham, G. A. (George A.)
+    - Hannay, James O. (James Owen)
+    birthdate: 1865
+    deathdate: 1950
+    gutenberg_agent_id: '8765'
+    url: http://www.gutenberg.org/2009/agents/8765
+    wikipedia: https://en.wikipedia.org/wiki/George_A._Birmingham
+creator:
+  author:
+    agent_name: Purdon, K. F. (Katherine Frances)
+    alias: Purdon, Katherine Frances
+    birthdate: 1852
+    deathdate: 1920
+    gutenberg_agent_id: '26391'
+    url: http://www.gutenberg.org/2009/agents/26391
+    wikipedia: https://en.wikipedia.org/wiki/Katherine_Purdon
+description: ''
+gutenberg_issued: '2024-08-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74263'
+  lccn: '14008474'
+language: en
+pgterms:marc904: https://archive.org/details/folkoffurryfarmr00purdiala/page/n5/mode/2up
+pgterms:marc905: 20230608062203purdon
+pgterms:marc906: '1914'
+pgterms:marc907: US
+production_note: Sonya Schermann, David E. Brown, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: '  $aUnited States :$bG. P. Putnam''s sons, $c1914.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Villages -- Fiction'
+- !lcsh 'Ireland -- Fiction'
+- !lcc 'PR'
+- GITenberg
+title: 'The folk of Furry Farm : $b The romance of an Irish village'
+url: http://www.gutenberg.org/ebooks/74263
