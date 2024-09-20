@@ -12,6 +12,9 @@ contributor:
     gutenberg_agent_id: '8765'
     url: http://www.gutenberg.org/2009/agents/8765
     wikipedia: https://en.wikipedia.org/wiki/George_A._Birmingham
+covers:
+- cover_type: archival
+  image_path: 74263-h/images/coversmall.jpg
 creator:
   author:
     agent_name: Purdon, K. F. (Katherine Frances)
@@ -22,6 +25,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/26391
     wikipedia: https://en.wikipedia.org/wiki/Katherine_Purdon
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74263#The-folk-of-Furry-Farm-b-The-romance-of-an-Irish-village
 gutenberg_issued: '2024-08-15'
 gutenberg_type: Text
 identifiers:
